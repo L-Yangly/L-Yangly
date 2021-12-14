@@ -4,7 +4,7 @@
 
 - 💼 Algorithm Worker.
 - ❤️ Python, Cplusplus, ImageAlgorithm and SignalAlgorithm.
-- 💬 Email: yangliuly1993@gmal.com or QQ: 522927317.
+- 💬 Email: 522927317@qq.com or QQ: 522927317.
 
 **Languages and Tools:** 
 
