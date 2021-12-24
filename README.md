@@ -1,4 +1,4 @@
-# 👋 Hi, I am YangLiuly1! ![visitors](https://visitor-badge.glitch.me/badge?page_id=yangliuly1.yangliuly1&left_color=green&right_color=black)
+# 👋 Hi, I am YangLiuly1!
 
 **About me:**
 
