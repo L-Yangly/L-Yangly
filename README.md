@@ -76,9 +76,6 @@ Python                   1 repo              ███████████�
  Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
-<br>
-<br>
-
 ---
 
 **Github stats:**
