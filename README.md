@@ -6,7 +6,9 @@
 - ❤️ Python, Cplusplus, ImageAlgorithm and SignalAlgorithm.
 - 💬 Email: yangliuly1993@gmail.com or QQ: 522927317.
 
-**Languages and Tools:** 
+---
+
+**Languages and tools:** 
 
 <p align="center">
 	<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -23,82 +25,19 @@
 	<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+---
+
+**Activity in the last week:**
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 130 Contributions in the Year 2021
- > 
-> 📦 83.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    30 commits     ██████░░░░░░░░░░░░░░░░░░░   26.55% 
-🌆 Daytime    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-🌃 Evening    60 commits     █████████████░░░░░░░░░░░░   53.1% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-Tuesday      13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
-Wednesday    25 commits     █████░░░░░░░░░░░░░░░░░░░░   22.12% 
-Thursday     24 commits     █████░░░░░░░░░░░░░░░░░░░░   21.24% 
-Friday       32 commits     ███████░░░░░░░░░░░░░░░░░░   28.32% 
-Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77% 
-Sunday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         1 repo              ████████████░░░░░░░░░░░░░   50.0% 
-Python                   1 repo              ████████████░░░░░░░░░░░░░   50.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/yangliuly1/yangliuly1/main/charts/bar_graph.png) 
-
-
- Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
+<br>
+<br>
+
+---
+
+**Github stats:**
 | <a href="https://github.com/yangliuly1?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yangliuly1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yangliuly1 github stats" height="200"/></a> | <a href="https://github.com/yangliuly1?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangliuly1&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" height="200"/></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
