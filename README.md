@@ -30,7 +30,7 @@
 **Activity in the last week:**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
 
@@ -61,8 +61,9 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CMake                    1 hr 36 mins        █████████████████████████   99.71% 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
+CMake                    2 hrs 33 mins       ██████████████████████░░░   87.66% 
+C++                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -77,7 +78,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 13/01/2022
+ Last Updated on 14/01/2022
 <!--END_SECTION:waka-->
 
 ---
