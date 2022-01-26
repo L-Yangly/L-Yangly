@@ -61,7 +61,7 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
@@ -75,7 +75,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 25/01/2022 18:42:22 UTC
+ Last Updated on 26/01/2022 18:42:32 UTC
 <!--END_SECTION:waka-->
 
 ---
