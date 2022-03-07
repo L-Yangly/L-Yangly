@@ -2,9 +2,8 @@
 
 **About me:**
 
-- 💼 Algorithm Worker.
-- ❤️ Python, Cplusplus, ImageAlgorithm and SignalAlgorithm.
-- 💬 Email: yangliuly1993@gmail.com or QQ: 522927317.
+- ❤️ Python, Cplusplus, Computer Visionm.
+- 💬 Email: yangliuly1993@gmail.com.
 
 ---
 
@@ -24,59 +23,6 @@
 	<img alt="windwos", src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 	<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-
----
-
-**Activity in the last week:**
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    53 commits     ████████░░░░░░░░░░░░░░░░░   33.54% 
-🌆 Daytime    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-🌃 Evening    79 commits     ████████████░░░░░░░░░░░░░   50.0% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Tuesday      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
-Wednesday    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Thursday     30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Friday       49 commits     ███████░░░░░░░░░░░░░░░░░░   31.01% 
-Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
-Sunday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         2 repos             ████████████████░░░░░░░░░   66.67% 
-Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
-
-```
-
-
-
- Last Updated on 17/02/2022 18:41:56 UTC
-<!--END_SECTION:waka-->
 
 ---
 
