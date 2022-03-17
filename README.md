@@ -1,46 +1,16 @@
-### Hi 👋  [^2]<img align="right" src="https://profile-counter.glitch.me/Yangliuly1/count.svg" />
+### Hi 👋  [^1] <img align="right" src="https://profile-counter.glitch.me/Yangliuly1/count.svg" />, here is Yangliuly1.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yangliuly1&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yangliuly1" alt="Yangliuly1" /></p>
+
 
 **About me:**
 
 - ❤️ Coding.
 - 💬 Email: yangliuly1993@gmail.com.
 
-Believe in yourself!
-
-相信自己！
-
-<details>
-
-<summary>Introduction to My Open Source</summary>
-
-1. Lane Detection
-
-  - [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0)
-
-</details>
-
-
-
-
-<details>
-<summary>我的开源项目简介</summary>
-1.
-
-| 车道线识别                                                   |                        |
-| :----------------------------------------------------------- | :--------------------- |
-| [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0) | 基于opencv的车道线检测 |
-
-</details>
-
-<br>
-
----
-
-**Languages and Tools:** 
+**Skills and Tools:**
 
 <p align="center">
 	<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -57,9 +27,47 @@ Believe in yourself!
 	<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+<br>
+<br>
+
+Believe in yourself!
+
+相信自己！
+
+<br>
+<br>
+
 ---
 
-![Game[^1]](github-user-contribution.svg)
+<details>
 
-[^1]: _generated with [Platane/snk](https://github.com/Platane/snk)_
-[^2]: <a href="https://profile-summary-for-github.com/user/Yangliuly1">https://profile-summary-for-github.com/user/Yangliuly1</a>
+<summary>Introduction to My Open Source</summary>
+
+1. Lane Detection
+
+- [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0)
+
+</details>
+
+
+<details>
+<summary>我的开源项目简介</summary>
+1.
+
+| 车道线识别                                                   |         项目说明               |
+| :----------------------------------------------------------- | :--------------------- |
+| [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0) | 基于opencv的车道线检测 |
+
+</details>
+
+<br>
+
+---
+
+
+![Game[^2]](github-user-contribution.svg)
+
+
+[^1]: <a href="https://profile-summary-for-github.com/user/Yangliuly1">https://profile-summary-for-github.com/user/Yangliuly1</a>
+
+[^2]: _generated with [Platane/snk](https://github.com/Platane/snk)_
