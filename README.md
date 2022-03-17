@@ -1,4 +1,4 @@
-### Hi 👋  [^1] <img align="right" src="https://profile-counter.glitch.me/Yangliuly1/count.svg" />, here is Yangliuly1.
+### Hi 👋  [^1] <img align="right" src="https://profile-counter.glitch.me/Yangliuly1/count.svg" />, Here is Yangliuly1.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yangliuly1&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
@@ -32,10 +32,10 @@
 <p align="center"> Believe in yourself! </p>
 <p align="center"> 相信自己！</p>
 
-<br>
-<br>
-
 </p>
+
+<br>
+<br>
 
 ---
 
@@ -44,29 +44,13 @@
 <summary>Introduction to My Open Source</summary>
 
 | id   | Title                                                        |                         Introduction                 |
-| :--: | :----------------------------------------------------------- | :--------------------------------------------------: |
+| :--: | :----------------------------------------------------------: | :--------------------------------------------------: |
 |  ——  | ————————————————————————————                                 |                  —————————————————                   |
 |  01  | [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0)   |    Lane detection based on Opencv      |
 
 </details>
 
-
-<details>
-<summary>我的开源项目简介</summary>
-	
-| 序号   | 标题                                                     |                         简介              |
-| :--: | :----------------------------------------------------------- | :--------------------------------------------------: |
-|  ——  | ————————————————————————————                                 |                  —————————————————                   |
-|  01  | [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0)  |     基于opencv的车道线检测               |
-	
-
-
-</details>
-
-<br>
-
 ---
-
 
 ![Game[^2]](github-user-contribution.svg)
 
