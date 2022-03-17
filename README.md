@@ -1,13 +1,46 @@
-# 👋 Hi, I am YangLiuly1!
+### Hi 👋  [^2]<img align="right" src="https://profile-counter.glitch.me/Yangliuly1/count.svg" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yangliuly1&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yangliuly1" alt="Yangliuly1" /></p>
 
 **About me:**
 
-- ❤️ Python, Cplusplus, Computer Visionm.
+- ❤️ Coding.
 - 💬 Email: yangliuly1993@gmail.com.
+
+Believe in yourself!
+
+相信自己！
+
+<details>
+
+<summary>Introduction to My Open Source</summary>
+
+1. Lane Detection
+
+  - [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0)
+
+</details>
+
+
+
+
+<details>
+<summary>我的开源项目简介</summary>
+1.
+
+| 车道线识别                                                   |                        |
+| :----------------------------------------------------------- | :--------------------- |
+| [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0) | 基于opencv的车道线检测 |
+
+</details>
+
+<br>
 
 ---
 
-**Languages and tools:** 
+**Languages and Tools:** 
 
 <p align="center">
 	<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -26,25 +59,7 @@
 
 ---
 
-**Github stats:**
-| <a href="https://github.com/yangliuly1?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yangliuly1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yangliuly1 github stats" height="200"/></a> | <a href="https://github.com/yangliuly1?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangliuly1&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" height="200"/></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+![Game[^1]](github-user-contribution.svg)
 
-<p align="center">
-   <a href="https://github.com/yangliuly1">
-    <img src="https://badges.pufler.dev/visits/yangliuly1/yangliuly1?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/yangliuly1">
-    <img src="https://badges.pufler.dev/years/yangliuly1?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/yangliuly1?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/yangliuly1?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/yangliuly1">
-    <img src="https://badges.pufler.dev/gists/yangliuly1?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/yangliuly1">
-    <img src="https://badges.pufler.dev/commits/monthly/yangliuly1?style=flat-square&color=black&logo=github">
-  </a>	
-</p>
-
+[^1]: _generated with [Platane/snk](https://github.com/Platane/snk)_
+[^2]: <a href="https://profile-summary-for-github.com/user/Yangliuly1">https://profile-summary-for-github.com/user/Yangliuly1</a>
