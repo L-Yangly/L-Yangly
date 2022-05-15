@@ -1,4 +1,4 @@
-### Hi 👋  [^1] <img align="right" src="https://profile-counter.glitch.me/Yangliuly1/count.svg" />, Here is Yangliuly1.
+### Hi 👋 [^1] <img align="right" src="https://profile-counter.glitch.me/Yangliuly1/count.svg" />, Here is Yangliuly1.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yangliuly1&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
@@ -56,7 +56,10 @@
 
 ---
 
+WakaTime:[^2]
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2053%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
