@@ -10,9 +10,9 @@
 	
 
 **About Me:**
-- 🛠️ A passionate algorithm engineer from China.
+- 🛠️ A vision algorithm engineer from China.
 - ❤️ Coding and exploring new things.
-- 📫 How to reach me: **yangliuly1993@gmail.com**.
+- 📫 Reach me: **yangliuly1993@gmail.com**.
 
 **Languages and Tools:**
 
