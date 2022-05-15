@@ -45,7 +45,7 @@
 
 ---
 
-WakaTime:[^2]
+WakaTime[^2]:
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
