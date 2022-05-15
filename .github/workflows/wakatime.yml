@@ -18,6 +18,7 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"          
           SHOW_OS: "True"
+          SHOW_TITLE: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
           SHOW_COMMIT: "False"
