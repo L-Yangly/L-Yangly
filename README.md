@@ -6,7 +6,7 @@
 
 
 <p align="left">
-	
+
 **About me:**
 
 - ❤️ Coding.
@@ -43,18 +43,22 @@
 
 <summary>Introduction to My Open Source</summary>
 
+<div class="center">
+
 | id   | Title                                                        |                         Introduction                 |
 | :--: | :----------------------------------------------------------: | :--------------------------------------------------: |
 |  ——  | ————————————————————————————                                 |                  —————————————————                   |
 |  01  | [lane-detection-v1.0](https://github.com/yangliuly1/lane-detection-v1.0)   |    Lane detection based on Opencv      |
 
+</div>
+
 </details>
 
 ---
 
-![Game[^2]](github-user-contribution.svg)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 [^1]: <a href="https://profile-summary-for-github.com/user/Yangliuly1">https://profile-summary-for-github.com/user/Yangliuly1</a>
-
-[^2]: _generated with [Platane/snk](https://github.com/Platane/snk)_
