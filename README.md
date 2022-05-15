@@ -7,12 +7,12 @@
 
 <p align="left">
 
-**About me:**
+**About Me:**
 
 - ❤️ Coding.
 - 💬 Email: yangliuly1993@gmail.com.
 
-**Skills and Tools:**
+**Skills And Tools:**
 
 <p align="center">
 	<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -41,7 +41,7 @@
 
 <details>
 
-<summary>Introduction to My Open Source</summary>
+<summary>Introduction To My Open Source</summary>
 
 <div class="center">
 
@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2053%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+[^2]📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -79,3 +79,4 @@ No Activity Tracked This Week
 
 
 [^1]: <a href="https://profile-summary-for-github.com/user/Yangliuly1">https://profile-summary-for-github.com/user/Yangliuly1</a>
+[^2]: <a href="https://github.com/anmol098/waka-readme-stats">https://github.com/anmol098/waka-readme-stats</a>
