@@ -53,7 +53,6 @@
 </p>
 
 <p align="center"> Believe in yourself! </p>
-<p align="center"> 相信自己！</p>
 
 </p>
 
