@@ -64,22 +64,8 @@
 WakaTime[^3]:
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 28/08/2022 08:29:09 UTC
+ Last Updated on 04/09/2022 08:29:13 UTC
 <!--END_SECTION:waka-->
 
 
