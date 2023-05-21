@@ -1,8 +1,5 @@
 # Hi 👋, Here is L-Yangly. <img align="right" src="https://profile-counter.glitch.me/L-Yangly/count.svg" />
 
-</br>
-</br>
-
 <p align="right">   <!-- 右边：Git信息 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=L-Yangly&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
@@ -17,9 +14,6 @@
 - 🛠️ A vision algorithm engineer.
 - ❤️ Coding and exploring new things.
 - 📫 Reach me: **yangliuly1993@gmail.com**.
-	
-</br>
-</br>
 
 **Languages and Tools[^2]:**
 	
